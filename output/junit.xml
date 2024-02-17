@@ -1,0 +1,17 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="21.880279">
+<testsuite name="api/api-example.spec.ts" timestamp="2024-02-17T20:58:51.456Z" hostname="Google Chrome" tests="1" failures="0" skipped="0" time="21.688" errors="0">
+<testcase name="Get Cat Fact With Length Above 100" classname="api/api-example.spec.ts" time="21.688">
+<properties>
+<property name="Given I get a cat fact longer than 100" value="">
+</property>
+<property name="Then I expect the fact length to be greater than 100 characters" value="">
+</property>
+</properties>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/api-api-example-Get-Cat-Fact-With-Length-Above-100-Google-Chrome/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

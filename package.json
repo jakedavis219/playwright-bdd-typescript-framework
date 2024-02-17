@@ -1,0 +1,17 @@
+{
+  "name": "@jake-davis/pw-bdd-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "open": "npx playwright test --ui",
+    "headed": "npx playwright test --headed",
+    "start": "npx playwright test",
+    "show-report": "npx playwright show-report output"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/chance": "^1.1.6",
+    "chance": "^1.1.11"
+  },
+  "dependencies": {
+  }
+}
